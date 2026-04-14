@@ -3,8 +3,14 @@
 I am a student engineer aiming to create value through both theory and implementation, standing at the intersection of Mathematical Engineering and Physics. 
 Currently a student at The University of Tokyo, majoring in Mathematical Information Engineering, I want to leverage my mathematical background to develop software.
 
-## 📈 Activity Graph
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taku1220taku&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 Activity & Achievements
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=taku1220taku&theme=radical)
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=taku1220taku)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taku1220taku&show_icons=true&theme=radical&count_private=true)
+
 
 ## 🎓 Education & Background
 - **The University of Tokyo, Faculty of Engineering** (2024 - Present)
