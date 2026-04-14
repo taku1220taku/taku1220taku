@@ -38,7 +38,7 @@ Currently a student at The University of Tokyo, majoring in Mathematical Informa
 - **Hobbies:** making sweets, Playing guitar (Rock/Blues)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taku1220taku&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taku1220taku&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taku1220taku&layout=compact&theme=radical)
 
 <!--
