@@ -4,8 +4,6 @@ I am a student engineer aiming to create value through both theory and implement
 Currently a student at The University of Tokyo, majoring in Mathematical Information Engineering, I want to leverage my mathematical background to develop software.
 
 ## 📊 Activity & Achievements
-![taku1220taku's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taku1220taku&theme=react&name=taku1220taku)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=taku1220taku&theme=radical)
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=taku1220taku)](https://github.com/ryo-ma/github-profile-trophy)
