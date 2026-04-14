@@ -6,11 +6,6 @@ Currently a student at The University of Tokyo, majoring in Mathematical Informa
 ## 📊 Activity & Achievements
 ![GitHub Streak](https://streak-stats.demolab.com/?user=taku1220taku&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/taku1220taku?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FTokyo)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taku1220taku&show_icons=true&theme=radical&count_private=true)
-
-
 ## 🎓 Education & Background
 - **The University of Tokyo, Faculty of Engineering** (2024 - Present)
   - Majoring in **Mathematical Information Engineering**.
