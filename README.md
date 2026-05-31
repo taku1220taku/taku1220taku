@@ -7,7 +7,7 @@ Currently a student at The University of Tokyo, majoring in Mathematical Informa
 ![GitHub Streak](https://streak-stats.demolab.com/?user=taku1220taku&theme=radical)
 
 ## 🎓 Education & Background
-- **The University of Tokyo, Faculty of Engineering** (2024 - Present)
+- **The University of Tokyo, Faculty of Engineering** (2026 - Present)
   - Majoring in **Mathematical Information Engineering**.
   - Focusing on statistics, optimization, information geometry, and quantum mechanics, etc.
 - **42 Tokyo** (Piscine 2025.9 / Cadet)
